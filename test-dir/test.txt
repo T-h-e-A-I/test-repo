@@ -1,8 +1,9 @@
 git init
 git status
 git add <file>
-git add. (adds all files)
+git add. (adds all files stages all files)
 git commit -m "Demo Message"
 git log
 git log --oneline
 git checkout <adress> <file>
+git reset (unstages all files)
